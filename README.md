@@ -1,5 +1,3 @@
-```## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm run build`
@@ -42,4 +40,4 @@ DryEye AI aims to make a significant positive impact by:
 - **Reducing Vulnerability:** Offering insights and preventative measures to reduce the impact of droughts on minority and low socioeconomic communities.
 - **Promoting Awareness:** Raising awareness about drought conditions and encouraging the adoption of best practices to mitigate their effects.
 
-Through these efforts, DryEye AI seeks to build resilience and improve the quality of life in communities most affected by drought conditions.```
+Through these efforts, DryEye AI seeks to build resilience and improve the quality of life in communities most affected by drought conditions.
